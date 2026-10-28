@@ -1,0 +1,15 @@
+id,name,purpose,data_sensitivity,autonomy,population_impact,model_opacity,deployment,program
+AI-01,TrialMatch Assistant,Match de-identified participant profiles to trial criteria,confidential,advisory,participants,explainable,research-facing,Program Northlight
+AI-02,GrantScan Triage,Rank incoming research proposals for reviewer assignment,internal,advisory,internal,interpretable,internal,Program Northlight
+AI-03,BioImage QC,Flag low-quality microscopy images before analysis,internal,human-in-loop,internal,black-box,research-facing,Program Harbor
+AI-04,AdverseEvent Signal Scan,Detect safety signals in trial event narratives,restricted,human-in-loop,participants,explainable,research-facing,Program Harbor
+AI-05,Budget Forecaster,Forecast program spend against quarterly plans,internal,advisory,internal,interpretable,internal,Operations
+AI-06,Public Evidence Summarizer,Draft plain-language summaries of published findings,public,human-in-loop,public,black-box,public-facing,Program Beacon
+AI-07,Autonomous Grant Writer,Draft full funding announcements without human review,internal,autonomous,public,black-box,public-facing,Program Beacon
+AI-08,Participant Chat Help,Answer participant questions about trial logistics,confidential,human-in-loop,participants,black-box,public-facing,Program Harbor
+AI-09,Genomic Variant Prioritizer,Rank variants for follow-up in rare-disease cohorts,restricted,advisory,participants,black-box,research-facing,Program Keystone
+AI-10,Autonomous Eligibility Decider,Approve or deny trial eligibility without human review,restricted,autonomous,participants,black-box,research-facing,Program Keystone
+AI-11,Internal Search Copilot,Retrieval assistant over internal policy documents,internal,advisory,internal,explainable,internal,Operations
+AI-12,Fraud Pattern Detector,Flag anomalous invoice patterns in vendor payments,confidential,human-in-loop,internal,explainable,internal,Operations
+AI-13,Public Chatbot Health Advice,Answer public health questions directly,public,autonomous,public,black-box,public-facing,Program Beacon
+AI-14,De-identification Auditor,Verify de-identification of shared datasets,restricted,human-in-loop,participants,interpretable,internal,Program Keystone

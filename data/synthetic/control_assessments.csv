@@ -1,0 +1,241 @@
+system_id,control_id,status
+SYS-01,AC-2,implemented
+SYS-01,AC-3,implemented
+SYS-01,AC-6,implemented
+SYS-01,AU-2,implemented
+SYS-01,AU-6,implemented
+SYS-01,AU-12,implemented
+SYS-01,CM-2,implemented
+SYS-01,CM-6,implemented
+SYS-01,CM-8,implemented
+SYS-01,IA-2,implemented
+SYS-01,IA-5,implemented
+SYS-01,IA-8,implemented
+SYS-01,IR-4,implemented
+SYS-01,IR-5,implemented
+SYS-01,IR-8,implemented
+SYS-01,SC-7,implemented
+SYS-01,SC-13,implemented
+SYS-01,SC-28,implemented
+SYS-01,SI-2,implemented
+SYS-01,SI-4,implemented
+SYS-01,SI-10,implemented
+SYS-01,RA-3,implemented
+SYS-01,RA-5,implemented
+SYS-01,RA-7,implemented
+SYS-01,CA-2,partially
+SYS-01,CA-5,implemented
+SYS-01,CA-7,implemented
+SYS-01,PM-9,implemented
+SYS-01,PM-14,implemented
+SYS-01,PM-28,implemented
+SYS-02,AC-2,implemented
+SYS-02,AC-3,implemented
+SYS-02,AC-6,not implemented
+SYS-02,AU-2,partially
+SYS-02,AU-6,partially
+SYS-02,AU-12,partially
+SYS-02,CM-2,planned
+SYS-02,CM-6,implemented
+SYS-02,CM-8,partially
+SYS-02,IA-2,implemented
+SYS-02,IA-5,partially
+SYS-02,IA-8,partially
+SYS-02,IR-4,implemented
+SYS-02,IR-5,implemented
+SYS-02,IR-8,not implemented
+SYS-02,SC-7,partially
+SYS-02,SC-13,implemented
+SYS-02,SC-28,implemented
+SYS-02,SI-2,implemented
+SYS-02,SI-4,implemented
+SYS-02,SI-10,implemented
+SYS-02,RA-3,not implemented
+SYS-02,RA-5,implemented
+SYS-02,RA-7,implemented
+SYS-02,CA-2,planned
+SYS-02,CA-5,implemented
+SYS-02,CA-7,implemented
+SYS-02,PM-9,partially
+SYS-02,PM-14,planned
+SYS-02,PM-28,not implemented
+SYS-03,AC-2,implemented
+SYS-03,AC-3,implemented
+SYS-03,AC-6,implemented
+SYS-03,AU-2,partially
+SYS-03,AU-6,partially
+SYS-03,AU-12,implemented
+SYS-03,CM-2,not implemented
+SYS-03,CM-6,partially
+SYS-03,CM-8,partially
+SYS-03,IA-2,implemented
+SYS-03,IA-5,implemented
+SYS-03,IA-8,not implemented
+SYS-03,IR-4,not implemented
+SYS-03,IR-5,planned
+SYS-03,IR-8,implemented
+SYS-03,SC-7,partially
+SYS-03,SC-13,partially
+SYS-03,SC-28,not implemented
+SYS-03,SI-2,implemented
+SYS-03,SI-4,implemented
+SYS-03,SI-10,partially
+SYS-03,RA-3,partially
+SYS-03,RA-5,implemented
+SYS-03,RA-7,implemented
+SYS-03,CA-2,implemented
+SYS-03,CA-5,implemented
+SYS-03,CA-7,planned
+SYS-03,PM-9,not implemented
+SYS-03,PM-14,partially
+SYS-03,PM-28,implemented
+SYS-04,AC-2,implemented
+SYS-04,AC-3,implemented
+SYS-04,AC-6,implemented
+SYS-04,AU-2,implemented
+SYS-04,AU-6,implemented
+SYS-04,AU-12,implemented
+SYS-04,CM-2,implemented
+SYS-04,CM-6,implemented
+SYS-04,CM-8,implemented
+SYS-04,IA-2,implemented
+SYS-04,IA-5,partially
+SYS-04,IA-8,implemented
+SYS-04,IR-4,implemented
+SYS-04,IR-5,not implemented
+SYS-04,IR-8,implemented
+SYS-04,SC-7,implemented
+SYS-04,SC-13,implemented
+SYS-04,SC-28,implemented
+SYS-04,SI-2,implemented
+SYS-04,SI-4,implemented
+SYS-04,SI-10,implemented
+SYS-04,RA-3,implemented
+SYS-04,RA-5,implemented
+SYS-04,RA-7,implemented
+SYS-04,CA-2,implemented
+SYS-04,CA-5,implemented
+SYS-04,CA-7,implemented
+SYS-04,PM-9,implemented
+SYS-04,PM-14,implemented
+SYS-04,PM-28,implemented
+SYS-05,AC-2,partially
+SYS-05,AC-3,implemented
+SYS-05,AC-6,implemented
+SYS-05,AU-2,not implemented
+SYS-05,AU-6,implemented
+SYS-05,AU-12,not implemented
+SYS-05,CM-2,not implemented
+SYS-05,CM-6,partially
+SYS-05,CM-8,not implemented
+SYS-05,IA-2,not implemented
+SYS-05,IA-5,implemented
+SYS-05,IA-8,planned
+SYS-05,IR-4,implemented
+SYS-05,IR-5,implemented
+SYS-05,IR-8,not implemented
+SYS-05,SC-7,planned
+SYS-05,SC-13,partially
+SYS-05,SC-28,implemented
+SYS-05,SI-2,partially
+SYS-05,SI-4,partially
+SYS-05,SI-10,partially
+SYS-05,RA-3,partially
+SYS-05,RA-5,partially
+SYS-05,RA-7,not implemented
+SYS-05,CA-2,implemented
+SYS-05,CA-5,partially
+SYS-05,CA-7,partially
+SYS-05,PM-9,implemented
+SYS-05,PM-14,partially
+SYS-05,PM-28,implemented
+SYS-06,AC-2,implemented
+SYS-06,AC-3,implemented
+SYS-06,AC-6,not implemented
+SYS-06,AU-2,implemented
+SYS-06,AU-6,implemented
+SYS-06,AU-12,partially
+SYS-06,CM-2,partially
+SYS-06,CM-6,not implemented
+SYS-06,CM-8,planned
+SYS-06,IA-2,implemented
+SYS-06,IA-5,partially
+SYS-06,IA-8,partially
+SYS-06,IR-4,implemented
+SYS-06,IR-5,not implemented
+SYS-06,IR-8,partially
+SYS-06,SC-7,partially
+SYS-06,SC-13,implemented
+SYS-06,SC-28,implemented
+SYS-06,SI-2,partially
+SYS-06,SI-4,implemented
+SYS-06,SI-10,planned
+SYS-06,RA-3,partially
+SYS-06,RA-5,implemented
+SYS-06,RA-7,implemented
+SYS-06,CA-2,implemented
+SYS-06,CA-5,not implemented
+SYS-06,CA-7,planned
+SYS-06,PM-9,partially
+SYS-06,PM-14,not implemented
+SYS-06,PM-28,planned
+SYS-07,AC-2,planned
+SYS-07,AC-3,partially
+SYS-07,AC-6,implemented
+SYS-07,AU-2,partially
+SYS-07,AU-6,planned
+SYS-07,AU-12,implemented
+SYS-07,CM-2,partially
+SYS-07,CM-6,implemented
+SYS-07,CM-8,implemented
+SYS-07,IA-2,implemented
+SYS-07,IA-5,planned
+SYS-07,IA-8,implemented
+SYS-07,IR-4,implemented
+SYS-07,IR-5,partially
+SYS-07,IR-8,not implemented
+SYS-07,SC-7,implemented
+SYS-07,SC-13,not implemented
+SYS-07,SC-28,partially
+SYS-07,SI-2,implemented
+SYS-07,SI-4,not implemented
+SYS-07,SI-10,implemented
+SYS-07,RA-3,partially
+SYS-07,RA-5,implemented
+SYS-07,RA-7,implemented
+SYS-07,CA-2,partially
+SYS-07,CA-5,partially
+SYS-07,CA-7,implemented
+SYS-07,PM-9,partially
+SYS-07,PM-14,partially
+SYS-07,PM-28,partially
+SYS-08,AC-2,not implemented
+SYS-08,AC-3,partially
+SYS-08,AC-6,planned
+SYS-08,AU-2,not implemented
+SYS-08,AU-6,not implemented
+SYS-08,AU-12,implemented
+SYS-08,CM-2,not implemented
+SYS-08,CM-6,partially
+SYS-08,CM-8,implemented
+SYS-08,IA-2,not implemented
+SYS-08,IA-5,planned
+SYS-08,IA-8,not implemented
+SYS-08,IR-4,partially
+SYS-08,IR-5,not implemented
+SYS-08,IR-8,not implemented
+SYS-08,SC-7,implemented
+SYS-08,SC-13,not implemented
+SYS-08,SC-28,implemented
+SYS-08,SI-2,planned
+SYS-08,SI-4,not implemented
+SYS-08,SI-10,not implemented
+SYS-08,RA-3,not implemented
+SYS-08,RA-5,not implemented
+SYS-08,RA-7,not implemented
+SYS-08,CA-2,partially
+SYS-08,CA-5,partially
+SYS-08,CA-7,not implemented
+SYS-08,PM-9,not implemented
+SYS-08,PM-14,partially
+SYS-08,PM-28,partially

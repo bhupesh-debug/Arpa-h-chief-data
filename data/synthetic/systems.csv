@@ -1,0 +1,9 @@
+system_id,name,description,profile
+SYS-01,Research Data Lake,Central lakehouse for program research datasets,strong
+SYS-02,Grants Portal,"Proposal intake, review, and award workflows",mixed
+SYS-03,AI Model Registry,"Inventory, versioning, and approval records for AI systems",mixed
+SYS-04,Identity Platform,"Workforce identity, MFA, and privileged access",strong
+SYS-05,Collaboration Suite,Document sharing and team workspaces,weak
+SYS-06,Publication Repository,Public-facing repository of published findings,mixed
+SYS-07,Finance System,Budget execution and vendor payment processing,mixed
+SYS-08,Legacy File Shares,Unstructured legacy shares pending migration,critical
